@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <code><img title="Microsoft Visual Studio" height="25" src="img/visualstudio.png"></code>
   <code><img title="Java" height="25" src="img/java-original.svg"></code>
   <code><img title="JSON" height="25" src="img/json.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
   <code><img title="GitHub" height="25" src="img/github.svg"></code> 
 </p>
 <hr>
