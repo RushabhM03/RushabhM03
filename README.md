@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <code><img title="JSON" height="25" src="img/json.svg"></code>
   <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
   <code><img title="GitHub" height="25" src="img/github.svg"></code> 
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Flask" height="25" src="img/flask.png"></code>
 </p>
 <hr>
 
