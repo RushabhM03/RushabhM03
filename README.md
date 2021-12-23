@@ -64,6 +64,10 @@ Here are some ideas to get you started:
   <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
   <code><img title="GitHub" height="25" src="img/github.svg"></code> 
   <code><img title="Flask" height="25" src="img/flask.png"></code>
+  <code><img title="Numpy" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg"></code>
+  <code><img title="scikit-learn" height="25" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
+  <code><img title="matplot" height="25" src="https://matplotlib.org/_static/images/logo2.svg"></code>
+  <code><img title="seaborn" height="25" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 </p>
 <hr>
 
