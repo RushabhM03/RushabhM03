@@ -25,18 +25,17 @@ Here are some ideas to get you started:
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/rushabh-maru-4a6b131b6/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/rushabh.maru123/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Rushabh Maru, aspiring developer from India
+  Hi, I'm Rushabh Maru, an aspiring developer from India
   <br><br>
   <br>
-  🔬 I'm currently studying for a bachelors's degree in Veermata jijabai technical institute Computer Engineering Department
+  🔬 I'm currently studying for a bachelor's degree in Veermata Jijabai technical institute Computer Engineering Department
   <br>
-  🎓 I graduated from Billabong High international School
+  🎓 I graduated from Billabong High International School
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning anything about it
   <br>
   📚 I’m currently learning Web development and machine learning
   <br>
@@ -49,25 +48,37 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="img/c.svg"></code>
-  <code><img title="C++" height="25" src="img/cpp.svg"></code>
-  <code><img title="Python" height="25" src="img/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="img/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="img/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="img/html5.svg"></code>
-  <code><img title="CSS" height="25" src="img/css.svg"></code>
-  <code><img title="Git" height="25" src="img/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="img/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="img/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="img/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="img/json.svg"></code>
-  <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
-  <code><img title="GitHub" height="25" src="img/github.svg"></code> 
-  <code><img title="Flask" height="25" src="img/flask.png"></code>
+  <code><img title="C" height="25" src="https://cdn.svgporn.com/logos/c.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
+  <code><img title="Python" height="25" src="https://cdn.svgporn.com/logos/python.svg"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.svgporn.com/logos/tailwindcss.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.svgporn.com/logos/git.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://cdn.svgporn.com/logos/tableau-icon.svg"></code>
+  <code><img title="Java" height="25" src="https://cdn.svgporn.com/logos/java.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+  <code><img title="Flask" height="25" src="https://cdn.svgporn.com/logos/flask.svg"></code>
+  <code><img title="Flask" height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
   <code><img title="Numpy" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg"></code>
   <code><img title="scikit-learn" height="25" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
   <code><img title="matplot" height="25" src="https://matplotlib.org/_static/images/logo2.svg"></code>
+  <br><br>
   <code><img title="seaborn" height="25" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/create-react-app.svg"></code>
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/npm.svg"></code>
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/angular-icon.svg"></code> 
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/php.svg"></code> 
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></code> 
+  <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/kibana.svg"></code> 
+  <code><img title="postan" height="25" src="https://cdn.svgporn.com/logos/postman-icon.svg"></img></code>
+  <code><img title="postan" height="25" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"></img></code>
+  
+  
 </p>
 <hr>
 
@@ -98,12 +109,12 @@ Here are some ideas to get you started:
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/RushabhM03/stock-market-analyser" title="To Do List"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=stock-market-analyser&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/RushabhM03/Amazon-UI-clone" title="Amazon clone UI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=Amazon-UI-clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/RushabhM03/TalentSustainIQ" title="talent sustain iq"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=TalentSustainIQ&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/RushabhM03/Cinema-ticket-booking-system" title="cinema-booking-system"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=Cinema-ticket-booking-system&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/RushabhM03/Movie_Recommendation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=Movie_recommendation&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/RushabhM03/Data-structres" title="Data-structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RushabhM03&repo=Data-structures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
