@@ -62,12 +62,10 @@ Here are some ideas to get you started:
   <code><img title="MySQL" height="25" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
   <code><img title="Flask" height="25" src="https://cdn.svgporn.com/logos/flask.svg"></code>
   <code><img title="Flask" height="25" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
-
   <br><br>
   <code><img title="Numpy" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg"></code>
   <code><img title="scikit-learn" height="25" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
   <code><img title="matplot" height="25" src="https://matplotlib.org/_static/images/logo2.svg"></code>
-
   <code><img title="seaborn" height="25" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
   <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/create-react-app.svg"></code>
   <code><img title="seaborn" height="25" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
